@@ -1,0 +1,105 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #000000;
+    font-family: Arial, sans-serif;
+}
+
+#container-login {
+    background-color: #e9d0a1;
+    padding: 30px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    width: 400px;
+    text-align: center;
+}
+
+#container-login h1 {
+    margin-bottom: 30px;
+    color: #333;
+}
+
+form label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #555;
+}
+
+form input[type="email"],
+form input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-top: #d49b9b;
+    border-left: #d49b9b;
+    border-right: #d49b9b;
+    border-radius: 5px;
+}
+
+#forgot-password {
+    display: block;
+    text-align: right;
+    margin-bottom: 10px;
+    color: #007bff;
+    text-decoration: none;
+}
+
+form input[type="submit"] {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    border: none;
+    padding: 10px 100px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+
+}
+
+form input[type="forgot-password"] {
+    text-decoration: underline;
+}
+
+form input[type="submit"]:hover {
+    background-color: #0fd177;
+}
+
+#social-container {
+    margin-top: 20px;
+}
+
+#social-container p {
+    margin-bottom: 10px;
+    color: #777;
+}
+
+#social-container .fa {
+    font-size: 24px;
+    margin: 0px;
+    background-color: #1a0ce2;
+    border-radius: 50%;
+    padding: 10px;
+    color: #fff;
+}
+
+#register-container {
+    margin-top: 20px;
+}
+
+#register-container p {
+    margin-bottom: 10px;
+    color: #555;
+}
+
+#register-container a {
+    color: #000000;
+    text-decoration: none;
+}
+
+#register-container a:hover {
+    text-decoration: underline;
+}

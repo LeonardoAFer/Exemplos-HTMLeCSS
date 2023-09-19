@@ -1,0 +1,81 @@
+* h1 h2 {
+
+color: #fff;
+
+}
+
+
+
+.container{
+ 
+    position: relative;
+    margin: 0px auto;
+    width: 800px;
+    border-radius: 6px;
+    
+    }
+
+
+img{
+
+width: 200px;
+margin-left: 20px;
+justify-content: center;
+display: flex;
+align-items: 20px;
+
+
+}
+
+.branco{
+
+    color: white;
+
+
+}
+
+p {
+
+display: flex;
+float: right;
+justify-content: center;
+
+}
+
+.texto1{
+
+    position: relative;
+    color: aqua;
+    bottom: 550px;
+    right: 580px;
+    font-size: 20px;
+
+
+}
+
+.texto2{
+
+position: relative;
+color: aqua;
+font-size: 20px;
+bottom: 360px;
+right: 38px;
+
+}
+
+.texto3{
+
+
+
+position: relative;
+color: aqua;
+font-size: 20px;
+right: -480px;
+bottom: 170px;
+}
+
+hr{
+
+    border-style: dashed;
+    color: aqua;
+}

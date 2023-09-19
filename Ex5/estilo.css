@@ -1,0 +1,134 @@
+* {
+
+font-family: Trebuchet MS, sans-serif;
+padding: 0;
+margin: 0;
+text-decoration: none;
+
+}
+
+header{
+width: 100%;
+background-color: rgb(233, 181, 38);
+}
+
+#areacabecalho {
+
+background-color: rgb(233, 181, 38);
+text-align: center;
+height: 105px;
+
+}
+
+
+
+#area-menu a {
+    text-decoration: none;
+padding: 5px;
+color: #ffffff;
+ font-size: 18px;
+}
+
+span{
+
+
+color: #fff;
+
+}
+
+#area-principal{
+
+    background-color: aliceblue;
+    padding: 15px;
+    top: 60px;
+}
+
+
+#area-postagens{
+
+    background-color: #fff;
+    padding: 15px;
+    top: 60px;
+    margin: 0px auto;
+    width: 660px;
+    height: 690px;
+    border-radius: 20px;
+
+}
+
+#area-lateral{
+
+background-color: #fff;
+border: 6px solid rgb(233, 181, 38);
+position: relative;
+bottom: 1400px;
+width: 200px;
+left: 1400px;
+text-align: left;
+margin-top: 20px;
+
+
+}
+
+#area-lateral h3{
+background-color: aliceblue;
+font-size: 20px;
+
+}
+
+#area-lateral a{
+color: rgb(233, 181, 38);
+
+}
+
+
+.postagem-lateral2{
+
+position: relative;
+bottom: 130px;
+}
+
+.postagem p{
+
+color: black;
+
+}
+
+h2{
+
+color:  rgb(233, 181, 38);;
+
+
+}
+
+h3{
+
+font-size: 15px;
+
+
+}
+
+img{
+
+    border-radius: 20px;
+
+
+}
+
+#rodape{
+
+
+text-align: center;
+background-color: rgb(233, 181, 38);
+padding-top: 28px;
+padding-bottom: 28px;
+}
+
+
+#fundo{
+
+background-color: aliceblue;
+
+
+
+}

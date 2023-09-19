@@ -1,0 +1,64 @@
+
+
+
+
+.container{
+
+margin: 0px auto;
+width: 1500px;
+z-index: 1;
+
+
+}
+
+.container p {
+
+    margin-bottom: 10px;
+   
+}
+
+.capuccino{
+
+position: relative;
+bottom: 30px;
+left: 620px;
+z-index: 2;
+}
+
+.mistura{
+
+    position: relative;
+    bottom: 46px;
+    left: 1135px;
+    z-index: 2;
+
+
+}
+
+table{
+
+border: 10px;
+background-color: bisque;
+block-size: 150px;
+border-collapse: collapse;
+
+
+}
+
+th, td{
+
+
+background-color: yellow;
+border: 1px solid #000000;
+padding: 10px;
+
+}
+
+.vermelho{
+
+
+color: red;
+
+}
+
+

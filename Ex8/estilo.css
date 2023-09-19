@@ -1,0 +1,75 @@
+* {
+
+    font-family: Trebuchet MS, sans-serif;
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    
+ }
+
+ h2{
+
+color: rgb(0, 0, 199);
+padding-top: 20px;
+text-align: center;
+
+
+ }
+
+
+ #container{
+
+position: absolute;
+padding-bottom: 100px;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+
+ }
+
+ body{
+
+align-items: center;
+background-image: url(fundo-preto0-1024x702.jpg);
+background-size: cover;
+
+
+ }
+
+ fieldset{
+
+
+padding: 20px;
+align-items: center;
+margin-top: 30px;
+width: 600px;
+border-radius: 10px;
+color: #fff;
+
+
+ }
+
+ legend{
+
+    color: rgba(23, 23, 216, 0.932);
+font-size: 20px;
+text-align: center;
+
+
+ }
+
+ input[type="text"]{
+
+border-radius: 8px;
+width: 600px;
+
+
+ }
+
+ textarea{
+
+width: 600px;
+height: 150px;
+
+ }
+
